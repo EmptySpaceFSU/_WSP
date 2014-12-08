@@ -1,0 +1,1 @@
+$(" input ").addClass("radius");

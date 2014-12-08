@@ -1,0 +1,38 @@
+http://www.marketsmith.com/Learn/Topic.aspx?name=Analyzing+Stocks&type=4
+
+Fundamental Data
+
+ 
+ 
+You’ll next want to take a closer look at the fundamental data offered in the MarketSmith Data Boxes on the daily and week chart views. An overarching concept to keep in mind is that the biggest winners in the stock market tend to be the number one companies in their fields. Your goal is to identify the present-day leaders, the companies that have the best economics in their respective areas.
+
+In our studies of the biggest winning stocks of all time, we identified a number of characteristics that were common to those companies before their stocks went on to tremendous gains for their shareholders. You’ll be able to identify each of these characteristics in the MarketSmith Data Boxes.
+
+One of the first things you’ll want to focus on is the company’s earnings history. Growing earnings are the lifeblood of almost all major stock moves. Without increased earnings, there is little reason for a stock to advance in price. MarketSmith offers eight quarters and nine years of earnings history (including estimates for the next two fiscal years).
+
+
+
+We identified three earnings-related parameters to use to analyze stocks:
+
+ 
+Earnings per share in the latest quarter should show a major percentage increase versus the same quarter a year ago. At least 18% or 20% and preferably much more.
+  
+Earnings growth should be accelerating in recent quarters compared with earlier rates of change. This means that the rate of year-over-year earnings growth in recent quarters will exceed that of previous quarters. The acceleration doesn’t have to occur in the latest period. It could have started up to six or eight quarters ago.
+ 
+Annual earnings for the last three years should be increasing at a rate of 25% per year or even more. If you are looking at a younger company that recently had its IPO, you might accept the last five or six quarters being up a significant amount.
+
+
+
+
+http://www.nasdaq.com/investing/dozen/positive-earnings-surprises.aspx
+
+Why We Look at Earnings Surprises
+Companies announce their earnings every quarter. Leading up to this event, analysts will make predictions as to what they think the earnings per share (EPS) will be. These predictions are often used as a benchmark by market participants. If the actual EPS comes in higher than the expected amount, this is generally good for the stock price. If the actual EPS comes in lower than the expected amount, this is generally bad for the stock price. When analyzing a company's earnings surprise track record, you want to see that the company is consistently meeting or beating its expectations.
+
+How to Score Earnings Surprises
+Pass—Give the earnings surprises a passing score if the EPS surprises during the past four quarters have all been positive.
+Fail—Give the earnings surprises a failing score if any of the EPS surprises during the past four quarters have been negative.
+Looking at the earnings surprises for WMT in Figure 10 WMT should receive a passing score. You can see that in Fiscal Quater End, WMT met the expecations, which is why it is displaying a % surprise of zero.
+
+Positive Earnings Surprises: PASS
+Read more: http://www.nasdaq.com/investing/dozen/positive-earnings-surprises.aspx#ixzz3LGXSXGFq

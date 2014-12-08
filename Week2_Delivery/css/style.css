@@ -1,0 +1,48 @@
+body { background-color:#0099ff; background-image:linear-gradient(to top, #00bbFF, #0099ff );background-repeat: no-repeat;background-size: 100% 100%}
+
+table { margin:auto; }
+
+#imgTest { background-image:url(../img/Smiling.jpg); background-size:30%; background-position:right;background-repeat: no-repeat;}
+
+#report-chart { margin:auto; }
+
+#testimg { 
+	 opacity:.8;
+	 max-width:300px;
+	 border-radius:20px;
+	 width:100%;
+	 height:200px;
+	 background-size:100%;
+	 background-repeat:no-repeat;
+	 background-image: url(../img/Smiling.jpg);
+}
+
+.justified { text-align:justify;}
+
+.roundMe {border-radius: 10px 50px 0 0 ;}
+
+.small { line-height:90%; }
+
+.th { min-width:20px; max-width:21px; }
+
+
+/* --------------------- User Defined ------------------------- */
+iResultsRight { text-align:right; margin-bottom:5px; }
+
+iForgot {
+	color:#666666;
+	font-size:.8em;
+}
+
+iUser, iFooter {
+	color:#666666;
+	font-size:.8em;
+	margin-bottom:-10px;
+}
+
+iTime {
+	font-size:.8em;
+	color:red;
+	margin-top:-5px;
+}
+
